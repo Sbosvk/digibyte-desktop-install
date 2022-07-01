@@ -6,6 +6,15 @@
 - To run from current path, place the script in the root of your installation folder (outside of the bin folder)
 - Make sure to make the script executable (chmod +x) or by going into the file properties and allow to execute as a program.
 
+## Usage
+### Snapcraft & Custom Path
+```text
+curl -sSL https://github.com/Sbosvk/digibyte-desktop-install/raw/main/desktop-install.sh | bash
+```
+
+### Current path
+Download release file or copy 'desktop-install.sh" to your installation root folder.
+
 ### Path alternatives
 - Current path
 - Snapcraft
