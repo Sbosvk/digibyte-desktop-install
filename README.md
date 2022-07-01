@@ -4,7 +4,7 @@
 
 - Will work on any GUI system that uses FreeDesktop (https://specifications.freedesktop.org/desktop-entry-spec/latest/)
 - To run from current path, place the script in the root of your installation folder (outside of the bin folder)
-- Make sure to make the script executable (chmod +x) or by going into the file properties and allow to execute as a program.
+- If you download or copy file, make sure to make the script executable (chmod +x) or by going into the file properties and allow to execute as a program.
 
 ## Usage
 ### Snapcraft & Custom Path
