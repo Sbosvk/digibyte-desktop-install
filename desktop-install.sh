@@ -86,7 +86,7 @@ echo ""
 
 # ICON
 ICON=icon.png
-ICON_DIR=$APP_PATH/icon/
+ICON_DIR=$APP_PATH/icon
 ICON_URL=https://github.com/Sbosvk/digibyte-desktop-install/raw/main/icon.png
 
 # Check for icon path
