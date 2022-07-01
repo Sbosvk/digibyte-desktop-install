@@ -2,6 +2,14 @@
 ### Easy bash script for installing DigiByte Core desktop entry with icon on most Linux systems.
 
 
-- Copy or download desktop-install.sh.
-- Run from the bin folder in your DigiByte Core installation.
-- For custom icon, place a .PNG file named "icon.png" in the bin folder of your DigiByte Core installation before running the script. (Icon file will be relocated)
+- Will work on any GUI system that uses FreeDesktop (https://specifications.freedesktop.org/desktop-entry-spec/latest/)
+- To run from current path, place the script in the root of your installation folder (outside of the bin folder)
+
+### Path alternatives
+- Current path
+- Snapcraft
+- Custom path
+
+### Install with snap
+- Can launcher to digibyte-core snap installation
+- Will install digibyte-core through snap if not already installed
