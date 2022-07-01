@@ -15,6 +15,8 @@ curl -sSL https://github.com/Sbosvk/digibyte-desktop-install/raw/main/desktop-in
 ### Current path
 Download release file or copy 'desktop-install.sh" to your installation root folder.
 
+## Details
+
 ### Path alternatives
 - Current path
 - Snapcraft
