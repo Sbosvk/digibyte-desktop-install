@@ -68,6 +68,8 @@ elif [ $PATH_SELECTION == 2 ]; then
                                 echo -e "${red}DigiByte-Core could not be found, was the installation aborted?${reset}"
                                 exit 1
                         fi
+                else
+                                APP_PATH="/snap/digibyte-core/current"
                 fi
         fi
 elif [ $PATH_SELECTION == 3 ]; then
@@ -87,7 +89,7 @@ echo ""
 # ICON
 ICON=digibyte-core.png
 ICON_DIR=~/.local/share/icons
-ICON_URL=https://github.com/Sbosvk/digibyte-desktop-install/raw/main/icon.png
+ICON_URL=https://github.com/Sbosvk/digibyte-desktop-install/raw/main/digibyte-core.png
 
 # Check for icon path
 echo "Checking for icon path.."
