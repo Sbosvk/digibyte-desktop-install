@@ -11,5 +11,5 @@
 - Custom path
 
 ### Install with snap
-- Can launcher to digibyte-core snap installation
+- Can create launcher to digibyte-core snap installation
 - Will install digibyte-core through snap if not already installed
