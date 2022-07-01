@@ -85,7 +85,7 @@ sudo ln -nsf $APP_PATH/bin/digibyte-qt /usr/bin/$APP
 echo ""
 
 # ICON
-ICON=icon.png
+ICON=digibyte-core.png
 ICON_DIR=~/.local/share/icons
 ICON_URL=https://github.com/Sbosvk/digibyte-desktop-install/raw/main/icon.png
 
